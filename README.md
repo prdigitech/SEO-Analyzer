@@ -1,4 +1,3 @@
-Here’s the README content in plain text format:
 
 ```
 # SEO Analyzer
@@ -21,28 +20,14 @@ A simple SEO analysis tool built with Python that audits key elements of a websi
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/Pratik-Ramdasi/seo-analyzer.git
-   cd seo-analyzer
-   ```
-
+   
 2. Create and activate a virtual environment:
-   ```
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
+   
 3. Install the required dependencies:
-   ```
-   pip install requests beautifulsoup4
-   ```
 
 ## Usage
 
 Run the SEO Analyzer by executing the following command:
-```
-python app.py
-```
 
 When prompted, enter the URL of the website you want to analyze. The tool will display the results of the SEO audit.
 
@@ -71,3 +56,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Pratik Pawan Ramdasi** - [GitHub Profile](https://github.com/Pratik-Ramdasi)
 ```
 
+```bash
+git clone https://github.com/Pratik-Ramdasi/seo-analyzer.git
+cd seo-analyzer
+```
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+```bash
+pip install requests beautifulsoup4
+```
+```bash
+python app.py
+```
