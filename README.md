@@ -1,5 +1,5 @@
 
-```
+
 # SEO Analyzer
 
 A simple SEO analysis tool built with Python that audits key elements of a website's SEO, including Title Tags, Meta Descriptions, Header Tags, and Image Alt Tags. This project provides insights into SEO improvements.
@@ -33,7 +33,7 @@ When prompted, enter the URL of the website you want to analyze. The tool will d
 
 ## Example
 
-```
+
 Enter the URL of the website: https://example.com
 Title Tag: Example Domain
 Meta Description: This domain is for use in illustrative examples in documents.
@@ -41,7 +41,7 @@ H1: ['Example Domain']
 H2: []
 H3: []
 Images missing Alt Tags: ['/images/logo.png']
-```
+
 
 ## Contributing
 
@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - **Pratik Pawan Ramdasi** - [GitHub Profile](https://github.com/Pratik-Ramdasi)
-```
+
 
 ```bash
 git clone https://github.com/Pratik-Ramdasi/seo-analyzer.git
